@@ -22,7 +22,7 @@
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{wasixd}/count.svg" alt="WASI-MD :: Visitor's Count" /></p>
+<p align="center"><img src="" alt="WASI-MD :: Visitor's Count" /></p>
 ---
 
 
