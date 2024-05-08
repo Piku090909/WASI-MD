@@ -1,4 +1,4 @@
-<h1 align="center"> 𝗪𝗔𝗦𝗜 𝗠𝗗 </h1> 
+<h1 align="center"> À𝖑è𝖝 𝕻ì𝖐ù </h1> 
 <p align="center"> Introducing 𝘄𝗮𝘀𝗶 𝗻𝗱, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
 
 [![wasi tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+Repo;I+am+WASI+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+😕🙃)](https://github.com/Kingjux)
@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/wasixd/WASI-MD">
-    <img alt="venocyber docs" height="300" src="https://telegra.ph/file/18a6be1692b8f5cd5b6e7.jpg">
+    <img alt="venocyber docs" height="300" src="https://telegra.ph/file/31bd0d4a7700c06563a33.jpg">
   </a>
 </p>
     
