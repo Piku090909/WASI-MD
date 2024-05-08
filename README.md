@@ -6,7 +6,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-(<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=HELLO+EVERYONE+%F0%9F%A4%A0;MY+NAME+IS+%C3%80%F0%9D%96%91%C3%A8%F0%9D%96%9D+%F0%9D%95%BB%C3%AC%F0%9D%96%90%C3%B9+%F0%9F%A5%B5%F0%9F%92%A6;THANKS+FOR+VISIT+ME%F0%9F%A5%B9+;THANKS+FOR+YOUR+SUPPORT+%F0%9F%AB%82" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=HELLO+EVERYONE+%F0%9F%A4%A0;MY+NAME+IS+%C3%80%F0%9D%96%91%C3%A8%F0%9D%96%9D+%F0%9D%95%BB%C3%AC%F0%9D%96%90%C3%B9+%F0%9F%A5%B5%F0%9F%92%A6;THANKS+FOR+VISIT+ME%F0%9F%A5%B9+;THANKS+FOR+YOUR+SUPPORT+%F0%9F%AB%82" alt="Typing SVG" /></a>
 
 <p align="center">
   <a href="https://github.com/wasixd/WASI-MD">
@@ -134,7 +134,5 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 - *WASI MDVis not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use WASI-Md at your own risk by keeping this warning in mind.*
-- [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/wasixd/WASI-MD)
-
-[![wasi tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+WASI+MD;🙏;🙏+✍🏾;🥰)](https://github.com/wasixd)
-
+- [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/wasixd/WASI-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=031CFF&background=37ECFF6C&random=true&width=435&lines=I+AM+%C3%80%F0%9D%96%91%C3%A8%F0%9D%96%9D+%F0%9D%95%BB%C3%AC%F0%9D%96%90%C3%B9%F0%9F%A5%B5%F0%9F%92%A6;THANKS;THANKS;THANKS)](https://git.io/typing-svg)
