@@ -28,8 +28,8 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{wasixd}/count.svg" alt="WASI-MD :: Visitor's Count" /></p>
 ---
 
-
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <p align="center"> 𝗪𝗔𝗦𝗜 𝗠𝗗 uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
@@ -57,8 +57,8 @@
 </p>
 <p align="center">Need help? please create an <a href="https://github.com/Kingjux/Venocyber-md/issues">issue</a></p>
 
- 
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a> 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 ## 𝗕𝗢𝗧 𝗚𝗔𝗠𝗘𝗦
@@ -71,8 +71,8 @@
 6.  ***𝗥𝗢𝗟𝗟𝗜𝗡𝗚 𝗗𝗜𝗖𝗘.***
 7.  
 ##
-
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
 
 
@@ -89,9 +89,11 @@ if scan qr is not working please try using pairing code i am currently working o
 ---
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
+    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ---
 1. ***GET QR FROM SERVER 1 [`SESSION ID `](https://pair-qr-wasi-md.onrender.com).***
 2.  ***GET QR FROM SERVER 2 [`SESSION ID by pair code`](https://pair-qr-wasi-md.onrender.com).***
+    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ---
 `it is currently powerful working` `IF QR OR PAIR DOESN'T WORK THEN REPORT ME ON WHATSAPP JOIN MY SUPPORT GC`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
@@ -101,30 +103,16 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 <a href="https://pair-qr-wasi-md.onrender.com"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
   # <a href="https://pair-qr-wasi-md.onrender.com"><img title="fork" src="https://img.shields.io/badge/pair code -h?color=darkblue&style=for-the-badge&logo=msi"></a>
 
-# <a href="https://github.com/wasixd/WASI-MD/fork"><img title="fork" src="https://img.shields.io/badge/FORK THIS REPO-h?color=darkblue&style=for-the-badge&logo=msi"></a>
+# <a href="https://github.com/wasixd/À𝖑è𝖝 𝕻ì𝖐ù-MD/fork"><img title="fork" src="https://img.shields.io/badge/FORK THIS REPO-h?color=darkblue&style=for-the-badge&logo=msi"></a>
 # <a href="https://dashboard.heroku.com/new?template=https://github.com/Piku090909/alexpiku.git"><img title="heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=darkblue&style=for-the-badge&logo=msi"></a>
 # <a href="https://railway.app/template/tM2McB?referralCode=v7Xehd"><img title="railway" src="https://img.shields.io/badge/DEPLOY ON RAILWAY-h?color=darkblue&style=for-the-badge&logo=msi"></a>
-# <a href="(https://replit.com/github/wasixd/WASI-MD"><img title="raplir" src="https://img.shields.io/badge/RAPLIT-h?color=darkblue&style=for-the-badge&logo=msi"></a>
-# <a href="https://wasimd-9dedcea2edba.herokuapp.com/"><img title="koyeb" src="https://img.shields.io/badge/DEPLOY ON KYOEB-h?color=darkblue&style=for-the-badge&logo=msi"></a>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  `Star ⭐ repo if you like this bot`.
- If any problem, then [`Whatsapp Me Here`](https://wa.me/message/THZ3I25BYZM2E1)
-
-
-### I Am
-- 
-[![View My GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/Itxxwasi)
-
-[![Chat on WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp)](https://wa.me/+923192173398)
-
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?style=flat-square&logo=instagram)](https://www.instagram.com/itx_mee_wasi)
-
-[![Telegram](https://img.shields.io/badge/Telegram-Profile-blue?style=flat-square&logo=telegram)](https://t.me/@itxwasi)
-
+ If any problem, then [`Whatsapp Me Here`](https://wa.me/qr/6GWQJ4TCBLHYI1)
 
 
 <h2 align="center">  NOTICE
@@ -134,5 +122,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 - *WASI MDVis not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use WASI-Md at your own risk by keeping this warning in mind.*
-- [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/wasixd/WASI-
+- [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/Piku090909/alexpiku.git
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=031CFF&background=37ECFF6C&random=true&width=435&lines=I+AM+%C3%80%F0%9D%96%91%C3%A8%F0%9D%96%9D+%F0%9D%95%BB%C3%AC%F0%9D%96%90%C3%B9%F0%9F%A5%B5%F0%9F%92%A6;THANKS;THANKS;THANKS)](https://git.io/typing-svg)
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
