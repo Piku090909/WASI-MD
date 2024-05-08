@@ -73,9 +73,9 @@
 
 
 
-<h3>Wasi-MD Stats</h3>
+<h3>À𝖑è𝖝 𝕻ì𝖐ù-MD Stats</h3>
 
-![Wasi-MD Stats](https://github-readme-stats.vercel.app/api/pin/?username=piku090909&repo=show_owner=true&theme=dark)
+![À𝖑è𝖝 𝕻ì𝖐ù-MD Stats](https://github-readme-stats.vercel.app/api/pin/?username=piku090909&repo=WASI-MD&show_owner=true&theme=dark)
 
 
     
