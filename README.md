@@ -77,7 +77,7 @@
 
 <h3>Wasi-MD Stats</h3>
 
-![Wasi-MD Stats](https://github-readme-stats.vercel.app/api/pin/?username=wasixd&repo=WASI-MD&show_owner=true&theme=dark)
+![Wasi-MD Stats](https://github-readme-stats.vercel.app/api/pin/?username=piku090909xd&repo=piku090909-MD&show_owner=true&theme=dark)
 
 
     
