@@ -1,7 +1,7 @@
 {
-   "name": "wasi md",
+   "name": "À𝖑è𝖝 𝕻ì𝖐ù md",
    "version": "1.0.0",
-   "description": "Multi device whatsapp bot by wasi.",
+   "description": "Multi device whatsapp bot by À𝖑è𝖝 𝕻ì𝖐ù.",
    "main": "lib/smd.js",
    "type": "commonjs",  
    "scripts": {
