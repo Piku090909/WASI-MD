@@ -9,7 +9,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=HELLO+EVERYONE+%F0%9F%A4%A0;MY+NAME+IS+%C3%80%F0%9D%96%91%C3%A8%F0%9D%96%9D+%F0%9D%95%BB%C3%AC%F0%9D%96%90%C3%B9+%F0%9F%A5%B5%F0%9F%92%A6;THANKS+FOR+VISIT+ME%F0%9F%A5%B9+;THANKS+FOR+YOUR+SUPPORT+%F0%9F%AB%82" alt="Typing SVG" /></a>
 
 <p align="center">
-  <a href="https://github.com/wasixd/WASI-MD">
+  <a href="https://github.com/Piku090909/alexpiku.git">
     <img alt="venocyber docs" height="300" src="https://telegra.ph/file/31bd0d4a7700c06563a33.jpg">
   </a>
 </p>
@@ -20,18 +20,18 @@
   <a href="https://wa.me/+918536881026?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+À𝖑è𝖝 𝕻ì𝖐ù-md+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=green" />
  
-  <a aria-label="wasi-md is free to use" href="https://github.com/wasixd/WASI-MD" target="_blank">
-    <img alt="wasitech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  <a aria-label="wasi-md is free to use" href="https://github.com/Piku090909/alexpiku.git" target="_blank">
+   
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{wasixd}/count.svg" alt="WASI-MD :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{À𝖑è𝖝 𝕻ì𝖐ù}/count.svg" alt="À𝖑è𝖝 𝕻ì𝖐ù-MD :: Visitor's Count" /></p>
 ---
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<p align="center"> 𝗪𝗔𝗦𝗜 𝗠𝗗 uses
+<p align="center"> À𝖑è𝖝 𝕻ì𝖐ù 𝗠𝗗 uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
