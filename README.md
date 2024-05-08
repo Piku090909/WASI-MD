@@ -6,8 +6,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-[![wasi tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+Repo;I+am+WASI+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+😕🙃)](https://github.com/Kingjux)
-
+[![À𝖑è𝖝 𝕻ì𝖐ù](<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=HELLO+EVERYONE+%F0%9F%A4%A0;MY+NAME+IS+%C3%80%F0%9D%96%91%C3%A8%F0%9D%96%9D+%F0%9D%95%BB%C3%AC%F0%9D%96%90%C3%B9+%F0%9F%A5%B5%F0%9F%92%A6;THANKS+FOR+VISIT+ME%F0%9F%A5%B9+;THANKS+FOR+YOUR+SUPPORT+%F0%9F%AB%82" alt="Typing SVG" /></a>
 
 <p align="center">
   <a href="https://github.com/wasixd/WASI-MD">
