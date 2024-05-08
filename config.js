@@ -71,10 +71,10 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "V.1.0.0",
-  caption : process.env.CAPTION || "𝙵𝙸𝙻𝙴 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 À𝖑è𝖝 𝕻ì𝖐ù ＭＤ🚩" , // ```『 ²⁴ ᴠᴇɴᴏᴄʏʙᴇʀ-ᴍᴅ 』```", //*『ᴠᴇɴᴏᴄʏʙᴇʀ ᴍᴅ』*\n youtube.com/@JASTINMTEWA-vn9pl"),
+  caption : process.env.CAPTION || "𝙵𝙸𝙻𝙴 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 À𝖑è𝖝 𝕻ì𝖐ù ＭＤ🥵" , // ```『 ²⁴ ᴠᴇɴᴏᴄʏʙᴇʀ-ᴍᴅ 』```", //*『ᴠᴇɴᴏᴄʏʙᴇʀ ᴍᴅ』*\n youtube.com/@JASTINMTEWA-vn9pl"),
  
   author : process.env.PACK_AUTHER|| "À𝖑è𝖝 𝕻ì𝖐ù ",
-  packname: process.env.PACK_NAME || "✨",
+  packname: process.env.PACK_NAME || "🥵",
   botname : process.env.BOT_NAME  || "À𝖑è𝖝 𝕻ì𝖐ù 𝗠𝗗",
   ownername:process.env.OWNER_NAME|| "It's À𝖑è𝖝 𝕻ì𝖐ù",
 
