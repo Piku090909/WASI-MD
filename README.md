@@ -64,7 +64,7 @@
 ## Deployment Methods
 if scan qr is not working please try using pairing code i am currently working on it
 ---
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+[![-----------------------------------------------------]()](#table-of-contents)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 1. ***GET QR FROM SERVER 1 [`SESSION ID `](https://pair-qr-wasi-md.onrender.com).***
 2.  ***GET QR FROM SERVER 2 [`SESSION ID by pair code`](https://pair-qr-wasi-md.onrender.com).*
@@ -73,7 +73,7 @@ if scan qr is not working please try using pairing code i am currently working o
 `it is currently powerful working` `IF QR OR PAIR DOESN'T WORK THEN REPORT ME ON WHATSAPP JOIN MY SUPPORT GC`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+[![-----------------------------------------------------]()](#table-of-contents)
 
 <a href="https://pair-qr-wasi-md.onrender.com"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
