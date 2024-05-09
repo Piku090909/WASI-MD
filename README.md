@@ -30,7 +30,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<img alt="venocyber docs" height="500" src="https://telegra.ph/file/8556c8fbe475f7a06bd3a.mp4">
+<img alt="venocyber docs" height="500" src="https://telegra.ph/file/eaed26f2abd7965bf4117.jpg">
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a> 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
