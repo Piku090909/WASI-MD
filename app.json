@@ -1,7 +1,7 @@
 {
   "name": "À𝖑è𝖝 𝕻ì𝖐ù-md",
   "description": "Hi there, I am À𝖑è𝖝 𝕻ì𝖐ù Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.",
-  "logo": "https://telegra.ph/file/31bd0d4a7700c06563a33.jpg",
+  "logo": "https://telegra.ph/file/d4ff21084eb154fdc06d6.jpg",
   "keywords": ["À𝖑è𝖝 𝕻ì𝖐ù MD BOT", "À𝖑è𝖝 𝕻ì𝖐ù md bot", "À𝖑è𝖝 𝕻ì𝖐ù tech", "À𝖑è𝖝 𝕻ì𝖐ù md", "À𝖑è𝖝 𝕻ì𝖐ù tech", "À𝖑è𝖝 𝕻ì𝖐ù Md Whatsapp Bot","multi device"],
   "success_url": "/",
   "app_url": "/suhail/",
@@ -32,7 +32,7 @@
     "IMAGE": {
       "description": "Image for bot",
       "required" :true,    
-      "value": "https://telegra.ph/file/31bd0d4a7700c06563a33.jpg"
+      "value": "https://telegra.ph/file/d4ff21084eb154fdc06d6.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
