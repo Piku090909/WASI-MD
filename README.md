@@ -101,7 +101,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 - *Use WASI-Md at your own risk by keeping this warning in mind.*
 - [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/Piku090909/alexpiku.git
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=031CFF&background=37ECFF6C&random=true&width=435&lines=I+AM+%C3%80%F0%9D%96%91%C3%A8%F0%9D%96%9D+%F0%9D%95%BB%C3%AC%F0%9D%96%90%C3%B9%F0%9F%A5%B5%F0%9F%92%A6;THANKS;THANKS;THANKS)](https://git.io/typing-svg)(https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=031CFF&background=37ECFF6C&random=true&width=435&lines=I+AM+%C3%80%F0%9D%96%91%C3%A8%F0%9D%96%9D+%F0%9D%95%BB%C3%AC%F0%9D%96%90%C3%B9%F0%9F%A5%B5%F0%9F%92%A6;THANKS;THANKS;THANKS)](https://git.io/typing-svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
