@@ -7,7 +7,7 @@ global.audio= "" ;
 global.video= "" ;
 global.port =process.env.PORT
 global.appUrl=process.env.APP_URL || ""                       // put your app url here,
-global.email ="jastinmtewa@yahoo.com"
+global.email ="pikumd5857747@yahoo.com"
 global.location="Morogoro,Tanzania."
 global.mongodb= process.env.MONGODB_URI || "mongodb+srv://wasitech10:WASImd##12@cluster0.eclhxiz.mongodb.net/?retryWrites=true&w=majority"
 
@@ -19,8 +19,8 @@ global.DATABASE_URI = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Pakistan";
 global.github=process.env.GITHUB|| "https://github.com/wasixd/WASI-MD";
-global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j";
-global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j" ; 
+global.gurl  =process.env.GURL  || "https://chat.whatsapp.com/HBf3zvaGyRaEfMZlKgUSPV";
+global.website=process.env.GURL || "https://chat.whatsapp.com/HBf3zvaGyRaEfMZlKgUSPV" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/d4ff21084eb154fdc06d6.jpg" ; // SET LOGO FOR IMAGE 
 
 
