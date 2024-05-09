@@ -68,7 +68,7 @@ if scan qr is not working please try using pairing code i am currently working o
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 1. ***GET QR FROM SERVER 1 [`SESSION ID `](https://pair-qr-wasi-md.onrender.com).***
 2.  ***GET QR FROM SERVER 2 [`SESSION ID by pair code`](https://pair-qr-wasi-md.onrender.com).*
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 ---
 `it is currently powerful working` `IF QR OR PAIR DOESN'T WORK THEN REPORT ME ON WHATSAPP JOIN MY SUPPORT GC`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
