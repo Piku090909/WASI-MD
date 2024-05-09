@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/Piku090909/alexpiku.git">
-    <img alt="venocyber docs" height="300" src="https://telegra.ph/file/d4ff21084eb154fdc06d6.jpg">
+    <img alt="venocyber docs" height="500" src="https://telegra.ph/file/d4ff21084eb154fdc06d6.jpg">
   </a>
 </p>
     
